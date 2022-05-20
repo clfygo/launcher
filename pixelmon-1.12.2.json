@@ -13,7 +13,7 @@
       "description": "",
       "icon": null,
       "version": "1.0.0",
-      "address": "222.232.79.196:25565",
+      "address": "114.141.224.13:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "",
@@ -315,7 +315,7 @@
           "type": "File",
           "artifact": {
             "size": 1570,
-            "url": "https://raw.githubusercontent.com/@/main/servers/pixelmon-1.12.2/files/config/CustomNpcs.cfg",
+            "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/files/config/CustomNpcs.cfg",
             "MD5": "6dbd542b57b327107f4cfafc9bb30110",
             "path": "config/CustomNpcs.cfg"
           }
@@ -326,7 +326,7 @@
           "type": "File",
           "artifact": {
             "size": 179,
-            "url": "https://raw.githubusercontent.com/@/main/servers/pixelmon-1.12.2/files/options.txt",
+            "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/files/options.txt",
             "MD5": "2e314d63d6b79a32d59239b76d8f8bcc",
             "path": "options.txt"
           }
@@ -337,7 +337,7 @@
           "type": "File",
           "artifact": {
             "size": 1434,
-            "url": "https://raw.githubusercontent.com/@/main/servers/pixelmon-1.12.2/files/optionsof.txt",
+            "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/files/optionsof.txt",
             "MD5": "3039d19c307973c70e4c80d583a45f5f",
             "path": "optionsof.txt"
           }
@@ -348,7 +348,7 @@
           "type": "File",
           "artifact": {
             "size": 340,
-            "url": "https://raw.githubusercontent.com/@/main/servers/pixelmon-1.12.2/files/optionsshaders.txt",
+            "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/files/optionsshaders.txt",
             "MD5": "01c66bcfdb835f19fe9c2e10f700d787",
             "path": "optionsshaders.txt"
           }
@@ -359,7 +359,7 @@
           "type": "File",
           "artifact": {
             "size": 150735630,
-            "url": "https://raw.githubusercontent.com/@/main/servers/pixelmon-1.12.2/files/resourcepacks/res.zip",
+            "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/files/resourcepacks/res.zip",
             "MD5": "1ee1c5a14a1957dd359a3986837d10a4",
             "path": "resourcepacks/res.zip"
           }
@@ -370,7 +370,7 @@
           "type": "File",
           "artifact": {
             "size": 133752,
-            "url": "https://raw.githubusercontent.com/@/main/servers/pixelmon-1.12.2/files/shaderpacks/lite.zip",
+            "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/files/shaderpacks/lite.zip",
             "MD5": "ef79c3f317ba20008c71d17e3376291c",
             "path": "shaderpacks/lite.zip"
           }
