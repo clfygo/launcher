@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://raw.githubusercontent.com/clfygo/launcher/servers/pixelmon-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
