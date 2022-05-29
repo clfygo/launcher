@@ -325,9 +325,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 179,
+            "size": 198,
             "url": "https://raw.githubusercontent.com/clfygo/launcher/main/servers/pixelmon-1.12.2/files/options.txt",
-            "MD5": "2e314d63d6b79a32d59239b76d8f8bcc",
+            "MD5": "3177e633d45a8bb57c8056e3e0459cbe",
             "path": "options.txt"
           }
         },
