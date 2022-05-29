@@ -6,3 +6,4 @@ renderDistance:12
 gamma:1.0
 key_Reload Menu | CTRL + :73
 key_Toggle Customization Overlay | CTRL + :73
+soundCategory_master:0.5
