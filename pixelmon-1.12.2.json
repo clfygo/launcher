@@ -10,10 +10,10 @@
     {
       "id": "pixelmon-1.12.2",
       "name": "픽셀몬",
-      "description": "58.229.105.42",
+      "description": "",
       "icon": null,
       "version": "1.0.0",
-      "address": "114.141.224.13:25565",
+      "address": "58.229.105.42:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "",
